@@ -11,7 +11,9 @@
 
 ###
 
-<p align="left">Estudio programación desde el 2022 donde adquirí conocimientos de html, css, javascript y bootstrap. <br>En 2023 estudié en la academia soyHenry donde me formé para ser desarrollador Full Stack y donde también tuve la oportunidad de ser Teaching - Assistant lo cual me ayudó a desarrollar mis soft skills.</p>
+<p align="left">Estudio programación desde el 2022 donde adquirí conocimientos de html, css, javascript y bootstrap. <br>En 2023 estudié en la academia soyHenry donde me formé para ser desarrollador Full Stack y donde también tuve la oportunidad de ser Teaching - Assistant lo cual me ayudó a desarrollar mis soft skills.
+Además he tenido la oportunidad a contribuir a proyectos en empresas como Bambú y AGI Gestión Inmobiliaria.
+</p>
 
 ###
 
