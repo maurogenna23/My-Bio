@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Soy desarrollador Fullstack orientado al Front-end. 👨‍💻</h2>
+<h2 align="left">Soy Software Engineer. 👨‍💻</h2>
 
 ###
 
